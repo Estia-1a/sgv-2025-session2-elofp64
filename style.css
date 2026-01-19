@@ -1,15 +1,12 @@
-
 body {
   background-color: rgb(255, 255, 255);
-  
 }
 
 h1 {
   color: white;
   text-align: center;
   font-family: Arial, sans-serif;
-  background-color:rgb(60, 179, 113);
-
+  background-color: rgb(60, 179, 113);
 }
 
 h2 {
@@ -18,11 +15,10 @@ h2 {
 }
 
 p {
-  font-family: arial,sans-serif ;
+  font-family: arial, sans-serif;
 }
 
 section {
   border-style: groove;
   margin: 50px;
 }
-  
